@@ -1,0 +1,23 @@
+.single-grid-product{
+    text-decoration: none;
+    color: #212529;
+}
+
+.single-grid-product .product{
+    margin: 0 0 20px 0;
+    background-color: #e5e5e5;
+    padding: 12px;
+}
+
+.single-grid-product .product img{
+    min-width: 235px;
+    max-width: 100%;
+    margin-bottom: 5px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.single-grid-product .product h6{
+    margin: 0;
+    text-transform: capitalize;
+}

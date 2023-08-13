@@ -1,0 +1,21 @@
+.trusted{
+    background-color: #f9f9f9;
+    padding: 40px 0 20px 0;
+}
+
+.trusted-heading{
+    justify-content: center;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.trusted-logo{
+    gap: 45px;
+    justify-content: center;
+}
+
+.trusted-logo img {
+    max-width: 125px;
+    height: 125px;
+    object-fit: contain;
+}

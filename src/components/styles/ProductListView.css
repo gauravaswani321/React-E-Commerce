@@ -1,0 +1,25 @@
+.single-list-product{
+    margin: 0 0 20px 0;
+    padding: 20px 20px 20px 10px;
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 7px;
+}
+
+.single-list-product .image img{
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.single-list-product h4.name{
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+
+.single-list-product .view-product-btn{
+    border-radius: 0;
+}
+
+.single-list-product p.price{
+    margin-bottom: 6px;
+}

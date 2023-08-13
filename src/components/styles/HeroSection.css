@@ -1,0 +1,21 @@
+.hero{
+    padding: 100px 0;
+}
+
+.hero-left-content{
+    padding-right: 40px;
+}
+
+.hero-left-content h6{
+    margin-bottom: 6px;
+    color: #0084ff;
+}
+
+.hero-left-content button{
+    background-color: #0084ff;
+    border-radius: 0px;
+}
+
+.hero-left-img img{
+    max-width: 100%;
+}

@@ -1,0 +1,17 @@
+.error{
+    padding: 30px 0;
+}
+
+.error-content{
+    text-align: center;
+}
+
+.error-content button{
+    border-radius: 0;
+    background-color: #0084ff;
+}
+
+.error-content button a{
+    color: #fff;
+    text-decoration: none;
+}

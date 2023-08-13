@@ -1,0 +1,78 @@
+.singlepg-product-head{
+    background-color: #f8f9fa;
+    padding: 30px 0;
+}
+
+.singlepg-product-heading span{
+    display: flex;
+    gap: 10px;
+}
+
+.singlepg-product-heading span h4{
+    text-transform: capitalize;
+}
+
+.singlepg-product-heading span a{
+    text-decoration: none;
+    color: #5183a5;
+}
+
+.singlepg-product-details{
+    padding: 50px 0 60px 0;
+}
+
+.singlepg-product-content .deleted-price{
+    margin-bottom: 2px;
+}
+
+.singlepg-product-content h3.name{
+    text-transform: capitalize;
+}
+
+.singlepg-product-content .rating-stars{
+    margin-bottom: 14px;
+    display: flex;
+}
+
+.singlepg-product-content .rating-stars p{
+    margin: 0 0 0 5px;
+    padding-top: 2px;
+}
+
+.singlepg-product-content .rating-stars span svg{
+    color: rgb(192, 192, 26);
+    font-size: 19px;
+}
+
+.singlepg-product-content .price{
+    color: #5183a5;
+    margin-bottom: 10px;
+}
+
+.singlepg-product-content .description{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.singlepg-product-content .services-icons{
+    display: flex;
+    text-align: center;
+    gap: 24px;
+    border-bottom: 1px solid rgb(190, 190, 190);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.singlepg-product-content .services-icons span p{
+    font-size: 14px;
+    margin: 0;
+}
+
+.singlepg-product-content .services-icons span svg{
+    font-size: 22px;
+    margin-right: 8px;
+}
+
+.singlepg-product-content .stock{
+    margin-bottom: 4px;
+}

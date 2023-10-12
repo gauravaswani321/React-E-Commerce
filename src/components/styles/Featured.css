@@ -1,0 +1,48 @@
+.featured{
+    background-color: #f9f9f9;
+    padding: 70px 0;
+}
+
+.featured-service-heading{
+    margin-bottom: 20px;
+}
+
+.featured-service-heading h5{
+    margin: 0;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.featured-single-product{
+    position: relative;
+    background-color: #e5e5e5;
+    padding: 15px;
+}
+
+.featured-single-product span{
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    background-color: #eeeeee;
+    padding: 0 8px;
+    border-radius: 25px;
+}
+
+.featured-single-product img{
+    max-width: 100%;
+    margin-bottom: 8px;
+}
+
+.featured-single-product h6{
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.featured-single-product p{
+    margin: 0;
+}
+
+.featured-single-product a{
+    color: #212529;
+    text-decoration: none;
+}

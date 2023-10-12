@@ -1,0 +1,33 @@
+.contact{
+    padding: 40px 0 20px 0;
+}
+
+.contact-pg-heading{
+    text-align: center;
+    margin-bottom: 30px;
+    --bs-gutter-x:0;
+}
+
+.contact-pg-heading h1{
+    font-size: 45px;
+}
+
+.contact-form{
+    padding: 40px 0;
+}
+
+.contact-pg-form{
+    max-width: 550px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contact-pg-form input,
+.contact-pg-form textarea{
+    border-radius: 0;
+}
+
+.contact-pg-form button{
+    background-color: #0084ff;
+    border-radius: 0;
+}

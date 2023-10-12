@@ -1,0 +1,100 @@
+.products{
+    padding: 40px 0 50px 0;
+}
+
+.product-filter-head{
+    margin-bottom: 30px;
+}
+
+.product-filters input.search{
+    text-align: left;
+    width: 90%;
+}
+
+.product-view-btn{
+    text-align: left;
+}
+
+.total-products{
+    text-align: center;
+}
+
+.product-price-sort{
+    text-align: right;
+}
+
+.product-price-sort select{
+    width: 60%;
+    margin: 0 0 0 auto;
+}
+
+.product-view-btn button {
+    border: 1px solid #dbdbdb40;
+}
+
+.product-view-btn button:not(:last-child){
+    margin-right: 5px;
+}
+
+.product-filter .categories{
+    margin-bottom: 30px;
+}
+
+.product-filter .categories button{
+    display: block;
+    margin-bottom: 5px;
+    border: 0;
+    text-transform: capitalize;  
+}
+
+.product-filter .categories button.active{
+    background-color: #0084ff;
+    color: #ffffff;
+}
+.product-filter .company{
+    margin-bottom: 25px;
+}
+
+.product-filter .company select{
+    width: 90%;
+    text-transform: capitalize;
+}
+
+.product-filter .colors{
+    margin-bottom: 30px;
+}
+
+.product-filter .colors button{
+    border: 0;
+    border-radius: 25px;
+    height: 18px;
+    width: 18px;
+    padding: 0;
+    margin-right: 5px;
+}
+
+.product-filter .colors button svg{
+    color: #ffffff;
+    vertical-align: inherit;
+}
+
+.product-filter .price{
+    margin-bottom: 30px;
+}
+
+.product-filter .price p{
+    margin: 0px;
+}
+
+.product-filter .price form input{
+    width: 90%;
+    height: 10px;
+}
+
+.product-filter .clear button{
+    border: 0px;
+    background-color: #0084ff;
+    color: #ffffff;
+    padding: 8px 16px;
+    font-size: 14px;
+}

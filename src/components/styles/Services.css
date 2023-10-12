@@ -1,0 +1,45 @@
+.services{
+    padding: 50px 0;
+}
+
+.superfast-delivery,
+.secure-payment{
+    background-color: #78C1F3;
+    padding: 45px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.superfast-delivery svg,
+.secure-payment svg{
+    color: #0084ff;
+    font-size: 50px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 9px;
+    margin-bottom: 15px;
+}
+
+.no-contact-shipping svg,
+.money-back-garunteed svg{
+    color: #0084ff;
+    font-size: 50px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 9px;
+}
+
+.no-contact-shipping{
+    margin-bottom: 15px;
+}
+
+.no-contact-shipping,
+.money-back-garunteed{
+    background-color: #78C1F3;
+    padding: 17px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}

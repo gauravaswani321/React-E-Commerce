@@ -1,0 +1,49 @@
+.footer{
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    border-top: 1px solid #e5e5e5;
+}
+
+.subscribe-footer-form{
+    padding-right:50px ;
+}
+
+.subscribe-footer-form h6{
+    margin-bottom: 16px;
+}
+
+.subscribe-footer-form input,
+.subscribe-footer-form button{
+    border-radius: 0;    
+}
+
+.subscribe-footer-form button{
+    background-color: #0084ff;
+}
+
+.footer-social h5{
+    margin-bottom: 16px;
+}
+
+.footer-social span{
+    display: flex;
+    gap: 10px;
+}
+
+.footer-social span svg {
+    font-size: 40px;
+    border: 1px solid;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+.footer-contact-no a{
+    text-decoration: none;
+    color: #212529;
+}
+
+.copyright-footer{
+    background-color: #f8f9fa;
+    border-top: 1px solid #e5e5e5;
+    padding: 20px 0 4px 0;
+}
